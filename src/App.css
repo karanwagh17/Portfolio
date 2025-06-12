@@ -302,6 +302,8 @@ ul {
 
 @media (min-width:0px) and (max-width: 767px)
 {
-  display : none;
+  .nav-brand {
+    display : none
+  }
   
 }
