@@ -299,3 +299,9 @@ ul {
   border: 1px solid rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(8px);
 }
+
+@media (min-width:0px) and (max-width: 767px)
+{
+  display : none
+  
+}
